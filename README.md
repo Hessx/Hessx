@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hessx
 - 👀 I’m interested in Web Development/Design, I.A, UX/UI design 
-- 🌱 I’m currently learning Web Development, UX/UI design
-- 💞️ I’m looking to collaborate on Web Development, UX/UI design
+- 🌱 I’m currently working as a full stack Product Designer
+- 💞️ I’m looking to collaborate on Product Design
 - 📫 How to reach me Phone (55) 11 999475667 E-mail: Vitorhesss@gmail.com
 
 <!---
